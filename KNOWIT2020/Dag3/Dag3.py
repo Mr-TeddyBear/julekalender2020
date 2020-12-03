@@ -1,11 +1,9 @@
 import numpy as np
 
 def isin(word, matrix):
+    print(f"Searcing for {word}")
     wlen = len(word)
     mlen = len(matrix)
-
-    wsqrt = int(np.sqrt(wlen))
-
 
     for i in range(mlen):
         for j in range(mlen):
@@ -13,22 +11,22 @@ def isin(word, matrix):
             if matrix[i,j] == word[0] or matrix[i,j] == word[-1]:
                 if not (j > mlen-wlen):
                     if ''.join(matrix[i][j:j+wlen]) == word:
-                        print("Normal, ", end='')
+                        print(f"Normal {i}, ", end='')
                         return True
                 if not (j-wlen < 0):
                     if ''.join(matrix[i][j-wlen+1:j+1])[::-1] == word:
-                        print("Reverse ,", end='')
+                        print(f"Reverse  {i},", end='')
                         return True
 
                 # Vertical search
                 if  not (i - wlen < 0):
                     #print(''.join(matrix[i-wlen+1:i+1,j]), word)
                     if ''.join(matrix[i-wlen+1:i+1,j])[::-1] == word:                        
-                        print("Vert up, ", end='')
+                        print(f"Vert up {i}, ", end='')
                         return True
                 if not (wlen + i > mlen):
                     if ''.join(matrix[i:i+wlen,j]) == word:
-                        print("Vert down, ", end='')
+                        print(f"Vert down {i}, ", end='')
                         return True
 
                 # Diagonal search
@@ -84,9 +82,11 @@ def isin(word, matrix):
 #                print([len(i) for i in tmpstr], len(word))
                 for c in tmpstr:
                     if c == word:
-                        print("Diag, ", end='')
+                        print(f"Diag {j}, ", end='')
                         
                         return True
+    print(f"Did not find {word}")
+    return False
 
 
 
@@ -107,18 +107,18 @@ if __name__ == "__main__":
     with open("wordlist.txt", "r") as file:
         for line in file:
             wordlist.append(line[:-1])
-    
 
-    print(matrix[0:5,0], matrix[5:0,0])
-
+    found = []
     print(wordlist)
-    found = 0
-    for word in wordlist:
-        if isin(word, matrix):
-            print(word)
-            found += 1
-            wordlist.remove(word)
-    
+    for i in range(len(wordlist)):
+        if isin(wordlist[i], matrix):
+            print(wordlist[i])
+            found.append(wordlist[i])
+        
     print(wordlist)
     print(found)
+
+    for f in found:
+        wordlist.remove(f)
+    print(wordlist)
 
