@@ -1,2 +1,2 @@
 # julekalender2020
-Julekalendere 2020
+Løsninger for AdventOfCode 2020 og knowit sin julekalender 2020
