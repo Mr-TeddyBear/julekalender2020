@@ -1,0 +1,70 @@
+Number of passports 265
+
+Passports with errors
+ecl {'eyr': '2040', 'iyr': '1984', 'pid': '2371396209', 'byr': '1951', 'cid': '283', 'hgt': '164cm', 'hcl': '#623a2f'}
+ecl {'iyr': '2017', 'eyr': '2025', 'hgt': '179cm', 'cid': '324', 'pid': '579870519', 'byr': '1934'}
+iyr {'cid': '159', 'byr': '1987', 'hcl': '#623a2f', 'pid': '144877169', 'eyr': '2021', 'ecl': 'brn', 'hgt': '164cm'}
+eyr {'iyr': '2011', 'pid': '350783151', 'hgt': '168cm', 'byr': '1961', 'ecl': 'amb', 'hcl': '#341e13', 'cid': '181'}
+byr {'eyr': '2025', 'hgt': '160cm', 'ecl': 'brn', 'hcl': '#cfa07d', 'pid': '136929481', 'iyr': '2017'}
+eyr {'hgt': '63in', 'byr': '1925', 'ecl': 'amb', 'iyr': '2014', 'cid': '224', 'hcl': '#341e13', 'pid': '208286938'}
+pid {'byr': '1982', 'hcl': '#ceb3a1', 'ecl': 'brn', 'eyr': '2020', 'hgt': '63in', 'iyr': '2017'}
+hgt {'iyr': '2018', 'eyr': '2030', 'hcl': '#8b1e1f', 'ecl': 'hzl', 'byr': '1971', 'pid': '189005628'}
+eyr {'iyr': '2013', 'byr': '1983', 'pid': '510998389', 'ecl': 'gry', 'cid': '99', 'hcl': '#a97842'}
+iyr {'ecl': 'gry', 'eyr': '2026', 'cid': '202', 'hgt': '191cm', 'byr': '1981', 'pid': '414853225', 'hcl': '#7d3b0c'}
+iyr {'hcl': '#18171d', 'byr': '1981', 'pid': '425911593', 'cid': '309', 'eyr': '2026', 'ecl': 'brn', 'hgt': '168cm'}
+byr {'pid': '461660733', 'eyr': '2028', 'hgt': '167cm', 'ecl': 'hzl', 'hcl': '#cfa07d', 'iyr': '2010', 'cid': '183'}
+hgt {'eyr': '1930', 'byr': '2021', 'iyr': '2016', 'pid': '163cm', 'hcl': '79428f', 'cid': '136', 'ecl': 'amb'}
+iyr {'ecl': 'blu', 'byr': '1953', 'hgt': '66in', 'hcl': '#888785', 'eyr': '2021', 'pid': '174284708'}
+pid {'ecl': 'amb', 'hgt': '187cm', 'hcl': '#c0946f', 'byr': '1935', 'cid': '139', 'iyr': '2019', 'eyr': '2023'}
+eyr {'iyr': '2012', 'hgt': '73in', 'cid': '199', 'byr': '1959', 'ecl': 'hzl', 'hcl': '#fcd2f7', 'pid': '268810283'}
+iyr {'cid': '249', 'eyr': '2034', 'ecl': '#7b7bf5', 'byr': '2009', 'pid': '171cm', 'hcl': '709fe4'}
+ecl {'hcl': 'z', 'byr': '1949', 'pid': '057966198', 'eyr': '1941', 'iyr': '2025'}
+pid {'iyr': '2014', 'hgt': '187cm', 'byr': '1921', 'eyr': '2022', 'ecl': 'amb'}
+hcl {'pid': '765750572', 'eyr': '2021', 'ecl': 'hzl', 'iyr': '1997', 'hgt': '66'}
+byr {'iyr': '2016', 'ecl': 'blu', 'cid': '335', 'hgt': '175cm', 'pid': '297297703', 'hcl': '#b6652a', 'eyr': '2030'}
+ecl {'byr': '1946', 'eyr': '2021', 'hcl': '#efcc98', 'iyr': '2015', 'cid': '52', 'hgt': '177cm', 'pid': '841348804'}
+hgt {'ecl': 'gry', 'eyr': '2027', 'byr': '1959', 'pid': '482204272', 'hcl': '#888785', 'iyr': '2013'}
+ecl {'byr': '1963', 'eyr': '2030', 'hgt': '158in', 'iyr': '2023', 'pid': '399153486', 'hcl': '#733820'}
+hcl {'eyr': '2031', 'ecl': '#b01aae', 'pid': '151cm', 'cid': '188', 'iyr': '2025', 'hgt': '60cm', 'byr': '2015'}
+iyr {'ecl': 'gry', 'hgt': '183cm', 'cid': '97', 'hcl': '#93be9b', 'eyr': '2021', 'byr': '1995', 'pid': '668647173'}
+byr {'ecl': 'oth', 'cid': '334', 'pid': '169599381', 'hcl': '#7d3b0c', 'eyr': '2028', 'hgt': '172cm', 'iyr': '2010'}
+byr {'pid': '635167847', 'iyr': '2010', 'hcl': '#18171d', 'hgt': '163cm', 'ecl': 'grn', 'eyr': '2026'}
+ecl {'hgt': '160cm', 'cid': '339', 'byr': '1938', 'hcl': '#341e13', 'eyr': '2025', 'iyr': '2015', 'pid': '562755634'}
+eyr {'cid': '283', 'byr': '1954', 'ecl': 'blu', 'hcl': '#ceb3a1', 'hgt': '169cm', 'iyr': '2013', 'pid': '616439723'}
+ecl {'pid': '830940520', 'eyr': '2022', 'byr': '1981', 'hgt': '193cm', 'hcl': '#18171d', 'iyr': '2013', 'cid': '117'}
+pid {'hcl': '#866857', 'iyr': '2019', 'ecl': 'hzl', 'byr': '1962', 'hgt': '72in', 'eyr': '2020'}
+byr {'pid': '0800674852', 'hcl': 'z', 'ecl': '#2a275e', 'hgt': '61cm', 'iyr': '1950', 'eyr': '1938'}
+pid {'hcl': 'z', 'cid': '67', 'iyr': '2029', 'byr': '1973', 'ecl': 'amb', 'eyr': '2030', 'hgt': '66'}
+hcl {'byr': '2007', 'iyr': '2012', 'eyr': '2029', 'ecl': '#7c1d6f', 'pid': '612320497', 'hgt': '165in'}
+byr {'hcl': '#733820', 'iyr': '2016', 'hgt': '168', 'eyr': '2020', 'cid': '118', 'pid': '9871436', 'ecl': 'gry'}
+iyr {'pid': '416683862', 'hgt': '162in', 'hcl': '#602927', 'byr': '2027', 'eyr': '2027', 'ecl': 'gmt'}
+ecl {'byr': '2014', 'hgt': '193cm', 'iyr': '2018', 'hcl': 'z', 'eyr': '2027', 'pid': '792398819'}
+pid {'cid': '233', 'hcl': 'z', 'ecl': '#18002d', 'hgt': '174cm', 'iyr': '2027', 'eyr': '1944'}
+byr {'hcl': '#7d3b0c', 'pid': '164496070', 'eyr': '2024', 'ecl': 'brn', 'hgt': '165cm'}
+ecl {'cid': '118', 'pid': '56750275', 'hcl': '#cfa07d', 'iyr': '2028', 'eyr': '2033', 'byr': '1933', 'hgt': '166cm'}
+eyr {'byr': '1973', 'ecl': 'hzl', 'hgt': '167', 'hcl': 'z', 'iyr': '2015', 'pid': '70648423'}
+pid {'hcl': '#623a2f', 'hgt': '174cm', 'eyr': '2026', 'iyr': '2020', 'ecl': 'grn', 'byr': '1981'}
+hgt {'cid': '236', 'byr': '1979', 'iyr': '2013', 'ecl': 'amb', 'eyr': '2030', 'hcl': '#6b5442', 'pid': '768869830'}
+hgt {'eyr': '2026', 'ecl': 'brn', 'cid': '288', 'hcl': '#866857', 'iyr': '2010', 'byr': '1922', 'pid': '309109383'}
+ecl {'eyr': '2029', 'iyr': '2020', 'hcl': '#c0946f', 'pid': '953788134', 'byr': '1954', 'hgt': '167cm'}
+eyr {'iyr': '2015', 'hcl': '#a97842', 'pid': '719192774', 'ecl': 'brn', 'byr': '1993', 'hgt': '186cm'}
+pid {'hcl': '#fffffd', 'hgt': '167cm', 'byr': '1945', 'ecl': 'grn', 'iyr': '2017', 'eyr': '2026'}
+hgt {'iyr': '2021', 'hcl': '#ceb3a1', 'ecl': '#d6db5a', 'pid': '185cm', 'eyr': '2020', 'cid': '130', 'byr': '2009'}
+pid {'cid': '339', 'hcl': '#6b5442', 'byr': '1972', 'ecl': 'oth', 'iyr': '2014', 'hgt': '183cm', 'eyr': '2020'}
+eyr {'pid': '055193304', 'hcl': '#fffffd', 'hgt': '67in', 'ecl': 'grn', 'iyr': '2011'}
+byr {'hcl': '#b6652a', 'eyr': '2023', 'pid': '879418046', 'hgt': '193cm', 'iyr': '2014', 'ecl': 'brn'}
+eyr {'byr': '1963', 'pid': '7471206322', 'iyr': '2015', 'ecl': 'brn', 'hcl': '#623a2f', 'hgt': '72cm', 'cid': '63'}
+pid {'cid': '135', 'ecl': 'oth', 'hcl': '#623a2f', 'iyr': '2017', 'eyr': '2024', 'byr': '1940', 'hgt': '66in'}
+ecl {'pid': '575519103', 'iyr': '2016', 'byr': '1964', 'hcl': '#7d3b0c', 'cid': '252', 'hgt': '172cm'}
+byr {'hcl': '#c0946f', 'ecl': 'grn', 'hgt': '75in', 'eyr': '2021', 'pid': '426544544'}
+iyr {'cid': '171', 'byr': '2004', 'hcl': 'z', 'hgt': '191cm', 'eyr': '2028', 'pid': '#292b3b', 'ecl': 'brn'}
+eyr {'ecl': 'brn', 'iyr': '2016', 'hgt': '150cm', 'pid': '680594195', 'cid': '324', 'hcl': '#602927', 'byr': '1944'}
+eyr {'cid': '86', 'ecl': 'gry', 'byr': '1972', 'hcl': '#866857', 'pid': '758976621', 'hgt': '188cm'}
+byr {'pid': '#850e8b', 'eyr': '2025', 'hgt': '163in', 'ecl': '#71e9e2', 'hcl': '#623a2f'}
+pid {'byr': '1964', 'iyr': '1979', 'eyr': '2022', 'ecl': '#77ada3', 'hcl': '#733820', 'cid': '56'}
+hcl {'eyr': '2022', 'iyr': '2015', 'ecl': 'gry', 'hgt': '65in', 'byr': '1994', 'pid': '766704860'}
+ecl {'pid': '849044092', 'eyr': '2020', 'hgt': '186cm', 'iyr': '2014', 'byr': '1991', 'hcl': '#866857'}
+ecl {'eyr': '2024', 'cid': '274', 'pid': '390115952', 'byr': '1934', 'hgt': '161cm', 'iyr': '2017', 'hcl': '#b95b0d'}
+eyr {'ecl': '#a16ec8', 'pid': '187cm', 'hcl': 'z', 'iyr': '2029', 'hgt': '170', 'byr': '2008'}
+
+Number if invalid passports 65
